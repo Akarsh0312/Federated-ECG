@@ -1,0 +1,16 @@
+# Ignore datasets
+ecg-classification-keras-cnn/data/
+ecg-classification-keras-cnn/hdf5/
+ecg-classification-keras-cnn/*.hdf5
+ecg-classification-keras-cnn/*.h5
+
+# Ignore models
+model/
+*.h5
+*.hdf5
+
+# Ignore csv
+*.csv
+
+# Ignore __pycache__
+__pycache__/
